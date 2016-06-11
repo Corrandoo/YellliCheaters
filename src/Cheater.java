@@ -1,6 +1,3 @@
-/**
- * Created by user on 09.06.2016.
- */
 public class Cheater {
     private boolean typeCheater; // false - cheater is a man. true - cheater is a company.
     private boolean sellerOrBuyer; // false - cheater is a seller. true - cheater is a buyer.
