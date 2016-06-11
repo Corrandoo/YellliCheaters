@@ -11,7 +11,7 @@ public class Cheater {
     private String adress; // Adress of cheater. City/village and more.
     private String number; // Telephone number of cheater.
     private String cheatingType; // Description of cheater's activity.
-    private String addictionInfo; // Other information.
+    private String addictionInfo; // Other information.Lol
 
     //////////CONSTRUCTORS
 
